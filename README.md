@@ -1,6 +1,6 @@
 # Netflix Design
 <p align="center">
-<img src="#" width=700>
+<img src="Screenshots/screenshot (1).png" width=700>
 </p>
 
 ### Landing Page Design of Netflix Contents made using HTML/CSS/JavaScript.
@@ -27,14 +27,18 @@ This website shows the power of combining HTML, CSS, and JavaScript to create a 
 
 ## Website ScreenShots:
 <p align="center">
-<img src="#" width=700>
+<img src="Screenshots/screenshot (1).png" width=700>
 </p>
-<p align="center">
-<img src="#" width=700>
-</p>
-<p align="center">
-<img src="#" width=700>
-</p>
+
+<br>
+
+| <img align="left" alt="Yellow Light" src="Screenshots/screenshot (2).png" width="250px" /> | <img align="left" alt="Red Light" src="Screenshots/screenshot (3).png" width="250px" /> | <img align="left" alt="Teal Light" src="Screenshots/screenshot (4).png" width="250px" /> | <img align="left" alt="Green Light" src="Screenshots/screenshot (5).png" width="250px" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| <img align="left" alt="Yellow Dark" src="Screenshots/screenshot (6).png" width="250px" /> | <img align="left" alt="Red Dark" src="Screenshots/screenshot (7).png" width="250px" /> | <img align="left" alt="Teal Dark" src="Screenshots/screenshot (8).png" width="250px" /> | |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br>
 
 ## Support
 
