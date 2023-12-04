@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Landing Page - UI Design</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div class="hero-section">
+        <header>
+            <a class="logo" href="#"><img src="assets/imgs/logo.png" alt=""></a>
+            <ul class="navigation">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">TV Shows</a></li>
+                <li><a href="#">Movies</a></li>
+                <li><a href="#">Latest</a></li>
+                <li><a href="#">My List</a></li>
+            </ul>
+            <div class="search">
+                <input type="search" placeholder="Search">
+                <i class="fa fa-search" aria-hidden="true"></i>
+            </div>
+        </header>
+        <div class="banner">
+            <img src="assets/imgs/bg.jpg" class="bg">
+            <div class="content">
+                <img src="assets/imgs/name.png" alt="" class="movieTitle">
+                <h4 class="movie_info">
+                    <span>2020</span> |
+                    <span class="badge">12+</span> |
+                    <span>1h 55min</span> |
+                    <span>Action</span>
+                </h4>
+                <p>To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.A young maiden secretly goes in his place and becomes one of China's greatest heroines.</p>
+                <div class="buttons">
+                    <a href="#"><i class="fa fa-play" aria-hidden="true"></i>Play</a>
+                    <a href="#"><i class="fa fa-plus" aria-hidden="true"></i>My List</a>
+                </div>
+            </div>
+            <a  class="play"  onclick="toggleVideo();"><img src="assets/imgs/play.png" alt="">Watch Trailer</a>
+        </div>
+        <div class="trailer">
+            <video src="assets/videos/trailer.mp4" controls="true" autoplay="true"></video>
+            <img src="assets/imgs/close.png"  alt="" class="close" onclick="toggleVideo();">
+        </div>
+    </div>
+    <script src="assets/js/main.js"></script>
+</body> 
+</html>
